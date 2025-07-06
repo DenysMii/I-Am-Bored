@@ -1,16 +1,15 @@
-# i_am_bored
+# I Am Bored
 
-A new Flutter project.
+This is a Flutter project that was created as a tool to find something to do when you're bored. Click the ‘I am bored’ button and the Activity Card will show you what you can do. Didn't like it? Click ‘Find something else’.
 
-## Getting Started
+The public Bored API was used for all activity descriptions
 
-This project is a starting point for a Flutter application.
+## Screenshots of the application
 
-A few resources to get you started if this is your first Flutter project:
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/7ea7309d-6214-4127-929f-d77158711b8c" width="500" />
+  <img src="https://github.com/user-attachments/assets/c8e9303b-6482-419d-9178-04c70588caea" width="500" />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
